@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.26.0",
+    "cypress": "^9.7.0"
+  },
+  "name": "e2e",
+  "version": "1.0.0",
+  "main": "applitools.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
